@@ -6,6 +6,9 @@
 
 - Cómo crear un ambiente de desarrollo con Dev Containers
 - Cómo crear un proyecto para Spring Boot
+- Cómo conecctar el proyecto a un servidor de MySQL ejecuándose en un contenedor
+- Cómo crear un servicio REST básico
+- Cómo implementar una prueba
 
 ## Siguientes pasos
 
