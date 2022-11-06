@@ -25,7 +25,7 @@ En este tutorial, aprenderá a
 
 0. [Revisar el proyecto a realizar ](docs/0.proyecto.md)
 1. [Crear el ambiente de desarrollo con Dev Containers](docs/1.crear-ambiente-desarrollo.md)
-2. [Crear el proyecto con Spring Boot](docs/2.crear-proyectos.md)
+2. [Crear el proyecto con Spring Boot](docs/2.crear-proyecto.md)
 3. [Ejecutar MySQL en un contenedor](docs/3.ejecutar-mysql.md)
 4. [Conectar la aplicación al servidor MySQL](docs/4.conectar-con-mysql.md)
 5. [Crear entidad de negocio](docs/5.crear-entidades.md)
